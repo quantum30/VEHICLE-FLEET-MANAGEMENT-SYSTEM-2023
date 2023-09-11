@@ -1,7 +1,7 @@
 # Vehicle management agency
 
 ### Introduction
-System development for a vehicle management agency - Using **JAVA** language, using different **DP's**, which supports **multi-threading** and a **GUI interface**.
+System development for a vehicle management agency - Using **JAVA** language, using different **Design Patterns**, which supports **multi-threading** and a **GUI interface**.
 
 ### System features
 #### Perform 4 operations on many vehicles:
