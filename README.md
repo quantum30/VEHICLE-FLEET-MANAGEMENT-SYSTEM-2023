@@ -31,7 +31,7 @@ System development for a vehicle management agency - Using **JAVA** language, us
   
 |Design Pattern  | Use |
 | :-------------: | ------------- |
-| **Singlethon**  | Implementing in "main menu" window to limit the number of windows.  |
+| **Singleton**  | Implementing in "main menu" window to limit the number of windows.  |
 | **Deligator**  | Used to avoid multiple inheritance.   |
 | **Decorator** | Used to adding a vehicle color and a vehicle status in run-time. |
 | **Memento** | Used to saving 3 state and to return to the state. |
